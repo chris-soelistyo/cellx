@@ -8,3 +8,4 @@ Code for CellX and related projects
 
 ### Contributors
 * Alan R. Lowe (quantumjot, arl)
+* Christopher J. Soelistyo
